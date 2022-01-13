@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+	int train, win;
+	train = 35;
+	switch(train){
+		case 35:
+			puts("Hello");
+		case 47:
+			puts("#47");
+}
+	return 0;
